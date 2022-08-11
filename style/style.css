@@ -67,6 +67,7 @@ main{
     flex-direction: column;
     align-items: center;
     width:100%;
+    height: 517px;
     padding: 10px;
     background-color: grey;
   }
@@ -110,11 +111,27 @@ img{
     color: rgb(50, 216, 50);
     font-size: 12px;
     margin-right: 45px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 3px;
+}
+
+.svg{
+  width: 15px;
+  height: 20px;
+}
+
+.svg2{
+    width: 20px;
+    height: 20px;
 }
 
 .dias{
     color: rgb(168, 167, 167);
     font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 3.5px;
 }
 
 .logo{
@@ -140,4 +157,9 @@ img{
 .nome{
     color:white;
     font-size: 13px;
+}
+
+.div{
+    display: flex;
+    flex-direction: row;
 }
