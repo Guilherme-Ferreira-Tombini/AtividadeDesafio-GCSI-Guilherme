@@ -2,6 +2,6 @@
 
 <p>Nesse projeto foi utilizado o JavaScript, HTML e CSS. Esse projeto é focado em realizar um card e codifica-lo</p>
 
-<h5 align="center">
+<h5>
    Link do vercel para o site do <a href="https://atividade-desafio-gcsi-guilherme.vercel.app/">desafio</a>
 </h5>
