@@ -43,7 +43,7 @@ header{
 }
 .card{
     font-size: 11px;
-    width: 20%;
+    width: 250px;
     padding: 20px;
     text-align: center;
     margin:30px;
@@ -69,6 +69,7 @@ main{
     width:100%;
     padding: 10px;
     background-color: grey;
+    flex-wrap: wrap;
   }
 
 .paragrafo{
@@ -103,13 +104,13 @@ img{
 
 .icones{
     display: flex;
+    justify-content: space-between;
     margin-bottom: 10px;
 }
 
 .diamante{
     color: rgb(50, 216, 50);
     font-size: 12px;
-    margin-right: 45px;
     display: flex;
     flex-direction: row;
     margin-top: 3px;
