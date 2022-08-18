@@ -55,6 +55,12 @@ header{
     perspective: 1000;
 }
 
+.card:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
 .card:hover .flipper, .card.hover .flipper {  		
     transform: rotateY(180deg);  	
   } 
@@ -74,10 +80,12 @@ header{
 .back { transform: rotateY(180deg); }
 
 .back{
-    margin: 40px;
-    margin-right: 50px;
-    margin-left: 70px;
+    width: 100%;
     position: absolute;
+}
+.back p{
+    text-align: justify;
+    color: rgb(168, 167, 167);
 }
 
 footer{
@@ -102,13 +110,13 @@ main{
     margin-top: 6px;
 }
 
-img{
+.jpg{
     border-radius: 10px;
     width: 100%;
     height: 200px;
 }
 
-img:hover{
+.jpg:hover{
     filter: hue-rotate(86deg) saturate(50%);
 }
 
@@ -200,4 +208,9 @@ img:hover{
 .div{
     display: flex;
     flex-direction: row;
+}
+
+.pc{
+    height: 140px;
+    border-radius: 10px;
 }
