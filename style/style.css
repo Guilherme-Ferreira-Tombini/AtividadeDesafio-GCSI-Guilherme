@@ -116,10 +116,6 @@ main{
     height: 200px;
 }
 
-.jpg:hover{
-    filter: hue-rotate(86deg) saturate(50%);
-}
-
 .descricao{
     display: flex;
     flex-direction: column;
@@ -213,4 +209,28 @@ main{
 .pc{
     height: 140px;
     border-radius: 10px;
+}
+
+.olho {
+    position: absolute;
+    margin-top: -202px;
+    border-radius: 10px;
+    height: 200px;
+    width: 220px;
+    background-color: rgb(10, 141, 60);
+    opacity: 0%;
+}
+
+.olho img{
+margin-top: 60px;
+width: 40%;
+height: 80px;
+
+}
+.olho:hover img{
+    opacity: 100%;
+}
+.olho:hover {
+    opacity: 50%;
+    display: block;
 }
