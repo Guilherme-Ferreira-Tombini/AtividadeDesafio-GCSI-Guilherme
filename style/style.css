@@ -52,6 +52,32 @@ header{
     border-radius: 10px;
     border: 1px solid rgb(255, 255, 255);
     box-shadow: 10px 7px 5px black;
+    perspective: 1000;
+}
+
+.card:hover .flipper, .card.hover .flipper {  		
+    transform: rotateY(180deg);  	
+  } 
+
+.flipper {  	
+    transition: 0.6s;  	
+    transform-style: preserve-3d;    	
+    position: relative;  
+  }  
+
+  .front, .back {  	
+    backface-visibility: hidden;    		
+    top: 0;  	
+    left: 0;  
+}
+.front { z-index: 2;  }  
+.back { transform: rotateY(180deg); }
+
+.back{
+    margin: 40px;
+    margin-right: 50px;
+    margin-left: 70px;
+    position: absolute;
 }
 
 footer{
@@ -165,6 +191,10 @@ img:hover{
 .nome{
     color:white;
     font-size: 13px;
+}
+
+.nome:hover{
+    color:aqua;
 }
 
 .div{
