@@ -82,6 +82,10 @@ img{
     height: 200px;
 }
 
+img:hover{
+    filter: hue-rotate(86deg) saturate(50%);
+}
+
 .descricao{
     display: flex;
     flex-direction: column;
@@ -95,6 +99,10 @@ img{
 
 .titulo{
     font-weight: bold;
+}
+
+.titulo:hover{
+    color:aqua;
 }
 
 .paragrafo{
