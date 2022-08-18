@@ -1,7 +1,31 @@
-<h1 align="center">Desafio de criação de um card</h1>
 
-<p>Nesse projeto foi utilizado o JavaScript, HTML e CSS. Esse projeto é focado em realizar um card e codifica-lo</p>
+# Desafio Card - Flex
 
-<h5>
-   Link do vercel para o site do <a href="https://atividade-desafio-gcsi-guilherme.vercel.app/">desafio</a>
-</h5>
+
+
+
+
+
+## 📜 Resumo
+
+Trabalho realizado para aprendizado de um card feito do zero.
+
+## Tecnologias 
+
+Foram utilizados: HTML, CSS e JavasScript
+## Imagem do card
+
+![imagem](https://user-images.githubusercontent.com/85890520/185430450-44f871c1-d3e5-45c1-82ea-59531dacb493.png)
+
+### Imagem do desktop
+
+![imagem2](https://user-images.githubusercontent.com/85890520/185431766-c1b9078f-9851-4393-8f70-55461dfef100.png)
+## Links
+
+Para o comprimento do desafio, foi disponivel no Vercel e no Linkedin
+- [Vercel](https://atividade-desafio-gcsi-guilherme.vercel.app/)
+- [Linkedin](https://www.linkedin.com/posts/guilherme-ferreira-tombini-593015247_desafio-do-card-activity-6964034200060481536-8RKF?utm_source=linkedin_share&utm_medium=member_desktop_web)
+## Autores
+
+- [@GuilhermeTombini](https://github.com/Guilherme-Ferreira-Tombini)
+
