@@ -207,8 +207,9 @@ main{
 }
 
 .pc{
-    height: 140px;
+    height: auto;
     border-radius: 10px;
+    width: 100%;
 }
 
 .olho {
@@ -233,4 +234,10 @@ height: 80px;
 .olho:hover {
     opacity: 50%;
     display: block;
+}
+
+@media (max-width: 1000px){
+.back p{
+    font-size: 11px;
+}
 }
