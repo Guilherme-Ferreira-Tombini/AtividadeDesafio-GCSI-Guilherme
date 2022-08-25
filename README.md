@@ -21,7 +21,6 @@ Foram utilizados: HTML, CSS e JavasScript
 
 ![Captura de Tela (974)](https://user-images.githubusercontent.com/85890520/185529874-6cf6acf1-528f-4310-a8f1-98975e0297bd.png)
 
-### Vídeo de demostração
 
 ## 📎 Links
 
