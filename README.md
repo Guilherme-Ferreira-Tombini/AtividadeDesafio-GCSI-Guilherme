@@ -1,7 +1,7 @@
 
 # Desafio Card - Flex
 
-
+Desafio proposto pela materia de Gerência e Configurações de Serviços de Internet, IFMS
 
 
 
@@ -10,7 +10,7 @@
 
 Trabalho realizado para aprendizado de um card feito do zero.
 
-## Tecnologias 
+## 🖥️ Tecnologias 
 
 Foram utilizados: HTML, CSS e JavasScript
 ## Imagem do card
@@ -19,13 +19,15 @@ Foram utilizados: HTML, CSS e JavasScript
 
 ### Imagem do desktop
 
-![imagem2](https://user-images.githubusercontent.com/85890520/185431766-c1b9078f-9851-4393-8f70-55461dfef100.png)
-## Links
+![Captura de Tela (974)](https://user-images.githubusercontent.com/85890520/185529874-6cf6acf1-528f-4310-a8f1-98975e0297bd.png)
+
+
+## 📎 Links
 
 Para o comprimento do desafio, foi disponivel no Vercel e no Linkedin
 - [Vercel](https://atividade-desafio-gcsi-guilherme.vercel.app/)
 - [Linkedin](https://www.linkedin.com/posts/guilherme-ferreira-tombini-593015247_desafio-do-card-activity-6964034200060481536-8RKF?utm_source=linkedin_share&utm_medium=member_desktop_web)
-## Autores
+## 👥 Autores
 
 - [@GuilhermeTombini](https://github.com/Guilherme-Ferreira-Tombini)
 
