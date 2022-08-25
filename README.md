@@ -28,6 +28,7 @@ Para o comprimento do desafio, foi disponivel no Vercel e no Linkedin
 - [Vercel](https://atividade-desafio-gcsi-guilherme.vercel.app/)
 - [Linkedin](https://www.linkedin.com/posts/guilherme-ferreira-tombini-593015247_desafio-do-card-activity-6964034200060481536-8RKF?utm_source=linkedin_share&utm_medium=member_desktop_web)
 ## 👥 Autores
+<img src="https://user-images.githubusercontent.com/85890520/186696911-e9ab03ce-09f4-4c76-ae20-1ec5e63b2ab9.jpg" width="100"/>
 
 - [@GuilhermeTombini](https://github.com/Guilherme-Ferreira-Tombini)
 
